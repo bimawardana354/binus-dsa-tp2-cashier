@@ -1,4 +1,4 @@
-# Sistem Kasir Toko — Queue dan Stack
+# Sistem Kasir Toko - Queue dan Stack
 
 Program Java ini mensimulasikan sistem kasir toko menggunakan dua struktur data:
 `Queue` (FIFO) untuk antrian pelanggan dan `Stack` (LIFO) untuk riwayat transaksi.
@@ -13,11 +13,11 @@ yang selesai disimpan ke riwayat dengan yang terbaru berada di atas.
 
 ## Menu Program
 
-1. **Tambah Antrian** — menambah pelanggan ke belakang antrian (`enqueue`) dengan validasi input.
-2. **Layani Pelanggan** — mengambil pelanggan terdepan (`dequeue`) lalu menyimpannya ke riwayat (`push`).
-3. **Tampilkan Antrian** — menampilkan antrian dari depan ke belakang.
-4. **Lihat Riwayat Transaksi** — menampilkan riwayat dari transaksi terbaru ke terlama.
-5. **Keluar** — menghentikan program.
+1. **Tambah Antrian**: menambah pelanggan ke belakang antrian (`enqueue`) dengan validasi input.
+2. **Layani Pelanggan**: mengambil pelanggan terdepan (`dequeue`) lalu menyimpannya ke riwayat (`push`).
+3. **Tampilkan Antrian**: menampilkan antrian dari depan ke belakang.
+4. **Lihat Riwayat Transaksi**: menampilkan riwayat dari transaksi terbaru ke terlama.
+5. **Keluar**: menghentikan program.
 
 ## Cara Menjalankan
 
